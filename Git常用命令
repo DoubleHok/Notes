@@ -1,0 +1,9 @@
+1）git branch xxx: 创建本地分支
+2）git checkout xxx: 将本地分支切换到xxx
+3) git status: 查看当前工作区
+4）git add xxx: 将文件xxx提交到暂存区（目录下所有文件）
+5）git commit -m "注释" :将暂存区的文件全部提交到本地仓库
+6）git remote add yyy 你的SSH： 关联远程仓库并命名为yyy
+7）git push yyy xxx: 将本地仓库文件全部提交给远程仓库
+8) git config -add user.name  "xxx" : 关联Githut 用户名
+9）git config -add user.email "xxx" : 关联Githut 用户邮箱
