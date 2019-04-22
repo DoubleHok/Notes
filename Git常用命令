@@ -7,3 +7,5 @@
 7）git push yyy xxx: 将本地仓库文件全部提交给远程仓库
 8) git config -add user.name  "xxx" : 关联Githut 用户名
 9）git config -add user.email "xxx" : 关联Githut 用户邮箱
+10)git config --global --replace-all user.name "你的用户名"
+11)git config --global --replace-all user.email "你的邮箱"
