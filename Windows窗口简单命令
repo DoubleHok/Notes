@@ -1,0 +1,6 @@
+1、python -V:  查看系统中python版本 
+2、dir(directorys):  列出当前文件夹中的所有文件
+3、cd(change directorys):  切换文件夹
+4、cd c:/test/ : 表示进入c盘的test文件夹中
+5、cls（clear screen Commond）:清除屏幕指令
+6、ipconfig：ip配置-查看自己的ip地址命令
