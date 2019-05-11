@@ -4,3 +4,4 @@
 4、cd c:/test/ : 表示进入c盘的test文件夹中
 5、cls（clear screen Commond）:清除屏幕指令
 6、ipconfig：ip配置-查看自己的ip地址命令
+7、exit（）：命令行中退出python指令
